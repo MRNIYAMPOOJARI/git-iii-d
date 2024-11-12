@@ -1,6 +1,7 @@
 repeating for practicng git program for me
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 adding new line to it
 now cammand3
 =======
@@ -9,3 +10,6 @@ now cammand3
 adding new line to it
 >>>>>>> a4a13c6 (new line added)
 555555555555555555555555555555555555555555555555555555555555555555555
+=======
+adding new line to it
+>>>>>>> a4a13c6 (new line added)
