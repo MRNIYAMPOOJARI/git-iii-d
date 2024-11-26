@@ -13,6 +13,7 @@ now cammand3
 adding new line to it
 >>>>>>> a4a13c6 (new line added)
 555555555555555555555555555555555555555555555555555555555555555555555
+<<<<<<< HEAD
 =======
 adding new line to it
 >>>>>>> a4a13c6 (new line added)
@@ -32,3 +33,5 @@ now cammand3
 adding new line to it
 >>>>>>> a4a13c6 (new line added)
 >>>>>>> 5b3c1b0 (new line added)
+=======
+>>>>>>> 1ad3c1d (cherry picking)
