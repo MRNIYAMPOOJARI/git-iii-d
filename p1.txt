@@ -2,6 +2,7 @@ repeating for practicng git program for me
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 adding new line to it
 now cammand3
 <<<<<<< HEAD
@@ -16,3 +17,9 @@ adding new line to it
 >>>>>>> a4a13c6 (new line added)
 =======
 >>>>>>> 6dc51fa (temp to save)
+=======
+adding new line to it
+now cammand3
+=======
+>>>>>>> parent of a4a13c6 (new line added)
+>>>>>>> 4492f1f (Revert "new line added")
