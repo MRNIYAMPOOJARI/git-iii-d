@@ -1,3 +1,6 @@
 repeating for practicng git program for me
+<<<<<<< HEAD
 adding new line to it
 now cammand3
+=======
+>>>>>>> parent of a4a13c6 (new line added)
